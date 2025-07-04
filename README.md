@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30" />
   </a>
   <a href="https://github.com/asqar268008" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
+    <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
