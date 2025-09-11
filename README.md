@@ -94,12 +94,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   </a>&nbsp
 </p>
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asqar268008&show_icons=true&locale=en" alt="asqar268008" />
-</p>
