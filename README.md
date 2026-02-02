@@ -76,7 +76,7 @@ I continuously upskill in modern ML frameworks, system design, and backend techn
 ### Data Visualization & BI
 <p>
   <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></a>
-  <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="80" height="70"/></a>
+  <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="70" height="70"/></a>
 </p>
 
 ### Web & Backend Development
