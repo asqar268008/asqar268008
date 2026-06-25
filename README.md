@@ -1,111 +1,169 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/asqar268008/Asqar/main/github-header-image.png" alt="Asqar Banner" width="100%"/>
-
----
-
-## 👋 Hello, I’m Asqar  
-**Machine Learning Engineer | AI Research Enthusiast | Backend Developer**
+<!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asqar268008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://raw.githubusercontent.com/asqar268008/Asqar/main/github-header-image.png" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Asqar Ali SMS</h1>
+
+<h3 align="center">
+AI & Machine Learning Engineer • Generative AI Developer • Data Analytics Enthusiast
+</h3>
+
+<p align="center">
+Building Intelligent Systems using Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Data Analytics.
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=asqar268008&label=Profile%20Views&color=blue&style=flat"/>
+
+<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=flat-square"/>
+
 </p>
 
 ---
 
-## 🧑‍💻 Professional Summary
+# 👨‍💻 About Me
 
-I am a passionate **Machine Learning Engineer** with strong foundations in **Artificial Intelligence, Data Science, and Backend Development**.  
-My interests lie in building **scalable AI-driven systems**, applying **statistical learning and deep learning techniques**, and exploring **research-oriented solutions** to real-world problems.
+I'm a **final-year Artificial Intelligence & Data Science undergraduate** passionate about developing intelligent software that combines **Machine Learning**, **Generative AI**, **Backend Engineering**, and **Data Analytics**.
 
-I continuously upskill in modern ML frameworks, system design, and backend technologies to stay competitive in both **industry and research environments**.
+My interests include designing scalable AI systems powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Data-Driven Decision Making**.
 
----
-
-## 🔍 Areas of Expertise
-
-- Machine Learning & Deep Learning  
-- Data Analysis & Model Development  
-- Backend Development & APIs  
-- Research-Oriented Problem Solving  
-- Model Optimization & Deployment  
+I enjoy transforming research ideas into production-ready AI applications while continuously learning modern AI technologies.
 
 ---
 
-## 🌱 Current Focus
+# 🚀 Current Focus
 
-- Advanced **Machine Learning & Deep Learning architectures**
-- **Computer Vision**
-- Backend development using **Django**
-- Writing clean, maintainable, and production-ready code
-
----
-
-## 📬 Contact
-
-- **Email:** mdasqar007@gmail.com  
-- **ORCID:** https://orcid.org/0009-0005-8631-4522.
-- **LinkedIn:** [linkedin.com/in/mdasqar](https://www.linkedin.com/in/mdasqar)  
-- **Kaggle:** [kaggle.com/mdasqar](https://www.kaggle.com/mdasqar) 
+- 🤖 Large Language Models (LLMs)
+- 🧠 Generative AI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🌐 AI Backend Engineering
+- 📊 Data Analytics & Business Intelligence
+- ☁️ Scalable AI Applications
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-### Programming Languages
+### Programming
+
 <p>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming Language" width="40" height="40"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=python,java"/>
 </p>
 
-### Machine Learning & AI
+### Artificial Intelligence
+
 <p>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-### Databases
-<p>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
-</p>
+**Machine Learning • Deep Learning • Computer Vision • Generative AI • LLMs • LangChain • Prompt Engineering • Retrieval-Augmented Generation (RAG) • Semantic Search • Vector Databases**
 
-### Data Visualization & BI
-<p>
-  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/></a>
-  <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="70" height="70"/></a>
-</p>
+---
 
-### Web & Backend Development
-<p>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
-</p>
+### Backend
 
-### DevOps & Tools
 <p>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://img.icons8.com/ios-glyphs/60/ffffff/github.png">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://img.icons8.com/ios-glyphs/60/000000/github.png">
-  <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png"
-       alt="GitHub" width="40" height="40"/>
-</picture>
-</p>
-
-### Design & Prototyping
-<p>
-  <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40"/></a>
+<img src="https://skillicons.dev/icons?i=django,postgres,mongodb,docker"/>
 </p>
 
 ---
 
-## 🎯 Career Objective
+### Data Analytics
 
-To contribute to **high-impact AI/ML projects and research-driven teams**, where I can apply my technical expertise, continuously learn, and build intelligent systems that create real-world value.
+- Microsoft Excel
+- Power BI
+- Dashboard Development
+- KPI Reporting
+- Data Cleaning
+- Data Visualization
 
 ---
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+---
+
+# 📚 Research
+
+📖 **Published Author**
+
+**MedForecast: A Novel Approach for Web-Based Disease Predictive Healthcare System and Personalized Recommendations**
+
+Published in
+
+> *Advancing Societally Relevant Applications of Knowledge through Scientific Research (CRC Press, 2026)*
+
+---
+
+# 🏆 Achievements
+
+🥈 Second Prize — National Level Research Conclave 2025
+
+🥈 Second Prize — Inter-College Decoding Competition
+
+💡 Smart India Hackathon 2025 — College Level Selection
+
+📖 Published Research Author
+
+---
+
+# 📜 Certifications
+
+- Microsoft Azure AI Essentials Professional Certificate
+- Applied Accelerated Artificial Intelligence (NPTEL)
+- Power BI — 360DigiTMG
+- Java Programming — InLustro
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=asqar268008&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asqar268008&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asqar268008&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+📧 **Email:** mdasqar007@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/mdasqar
+
+💻 **GitHub:** https://github.com/asqar268008
+
+📊 **Kaggle:** https://kaggle.com/mdasqar
+
+🆔 **ORCID:** https://orcid.org/0009-0005-8631-4522
+
+</p>
+
+<p align="center">
+
+### *"Building AI solutions that transform research into real-world impact."*
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
+
+</p>
+```
