@@ -20,7 +20,7 @@ Building Intelligent Systems using Machine Learning, Large Language Models (LLMs
 
 <img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-success?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-blue?style=flat-square"/>
 
 </p>
 
