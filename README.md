@@ -16,23 +16,43 @@ Building Intelligent Systems using Machine Learning, Large Language Models (LLMs
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=asqar268008&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=asqar268008&label=Visitors&color=4F46E5&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-2563EB?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Research-LLMs%20%26%20RAG-7C3AED?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/asqar268008">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/asqar268008/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/asqar268008/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://asqar268008.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="mailto:mdasqar007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
-
+  
 I'm a **final-year Artificial Intelligence & Data Science undergraduate** passionate about developing intelligent software that combines **Machine Learning**, **Generative AI**, **Backend Engineering**, and **Data Analytics**.
 
 My interests include designing scalable AI systems powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Data-Driven Decision Making**.
 
-I enjoy transforming research ideas into production-ready AI applications while continuously learning modern AI technologies.
+I enjoy transforming research ideas into production-ready AI applications while continuously exploring modern AI technologies.
 
 ---
 
@@ -47,48 +67,66 @@ I enjoy transforming research ideas into production-ready AI applications while 
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming
+<div>
 
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java"/>
-</p>
-
-### Artificial Intelligence
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-**Machine Learning • Deep Learning • Computer Vision • Generative AI • LLMs • LangChain • Prompt Engineering • Retrieval-Augmented Generation (RAG) • Semantic Search • Vector Databases**
-
----
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,postgres,mongodb,docker"/>
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
 
-### Data Analytics
+### 🤖 Artificial Intelligence & Machine Learning
 
-- Microsoft Excel
-- Power BI
-- Dashboard Development
-- KPI Reporting
-- Data Cleaning
-- Data Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-0369A1?style=for-the-badge" />
+</p>
 
 ---
 
-### Developer Tools
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+  <img src="https://skillicons.dev/icons?i=django,postgres,mongodb,docker" />
 </p>
+
+---
+
+### 📊 Data Analytics & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard%20Development-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KPI%20Reporting-16A34A?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+</div>
 
 ---
 
@@ -104,66 +142,21 @@ Published in
 
 ---
 
-# 🏆 Achievements
-
-🥈 Second Prize — National Level Research Conclave 2025
-
-🥈 Second Prize — Inter-College Decoding Competition
-
-💡 Smart India Hackathon 2025 — College Level Selection
-
-📖 Published Research Author
-
----
-
-# 📜 Certifications
-
-- Microsoft Azure AI Essentials Professional Certificate
-- Applied Accelerated Artificial Intelligence (NPTEL)
-- Power BI — 360DigiTMG
-- Java Programming — InLustro
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=asqar268008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asqar268008&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asqar268008&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asqar268008&theme=tokyonight&hide_border=true"/>
-
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asqar268008&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asqar268008&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-📧 **Email:** mdasqar007@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/mdasqar
-
-💻 **GitHub:** https://github.com/asqar268008
-
-📊 **Kaggle:** https://kaggle.com/mdasqar
-
-🆔 **ORCID:** https://orcid.org/0009-0005-8631-4522
-
-</p>
-
-<p align="center">
 
 ### *"Building AI solutions that transform research into real-world impact."*
 
 ⭐ If you find my work interesting, feel free to explore my repositories and connect with me.
 
 </p>
-```
